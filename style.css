@@ -1,0 +1,35 @@
+.footer{
+    position: fixed;
+                text-align: center;
+                background-color:#101010;
+                color: #9d9d9d;
+                width: 100%;
+                left: 0;
+                bottom: 0;
+                font-size: 1em;
+                padding: 10px 0;
+                
+}
+#banner_image{
+    margin-top: -20px;
+    padding-top: 75px;
+    padding-bottom: 105px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url('image/intro-bg_1.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height:100%;
+    width: 100%;
+     
+}
+#banner_content{
+    position: relative;
+    padding-top: 2%;
+    padding-bottom: 5%;;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    background-color: rgba(0,0,0,0.7);
+    max-width: 660px;
+}
